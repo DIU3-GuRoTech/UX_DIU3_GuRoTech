@@ -1,5 +1,5 @@
 # DIU25
-Prácticas Diseño Interfaces de Usuario (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario (Tema: .dfgdfgsdf.. ) 
 
 [Guiones de prácticas](GuionesPracticas/)
 
